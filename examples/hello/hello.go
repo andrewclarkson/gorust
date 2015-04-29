@@ -1,7 +1,7 @@
 package main
 
 /*
- #cgo LDFLAGS: -L. -ltest
+ #cgo LDFLAGS: -L. -lhello
 void say_hello();
 */
 import "C"
