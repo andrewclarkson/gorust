@@ -1,0 +1,11 @@
+[package]
+name = "combine"
+version = "0.0.1"
+
+[lib]
+name = "combine"
+path = "./combine.rs"
+
+[dependencies]
+image = "*"
+rustc-serialize = "=0.3.7"
